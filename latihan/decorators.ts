@@ -1,0 +1,3 @@
+namespace Decorators {
+   import { }
+}
